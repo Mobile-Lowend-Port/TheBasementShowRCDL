@@ -37,20 +37,6 @@ class Main extends Sprite
 
 	static final videoFiles:Array<String> = [
 		"BasementIntro",
-		"Chainsaw Maniac",
-		"Lyrics",
-		"Sirokou",
-		"Splatter",
-		"toothless",
-		"W1 End",
-		"Portal",
-		"W1",
-		"W2 End",
-		"W2",
-		"W3",
-		"W3 End",
-		"W4",
-		"W4 End",
 	];
 
 	// You can pretty much ignore everything from here on - your code should go in your states.
